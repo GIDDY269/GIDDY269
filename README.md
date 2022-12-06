@@ -1,8 +1,7 @@
 ![logo](https://github.com/GIDDY269/GIDDY269/blob/main/GIDEON%20OBORO%20(1).png))
 <h1 align="center">Hi Techies 👋, I'm GIDEON OBORO</h1>
 <h3 align="center">A PASSIONATE DATA SCIENTIST FROM NIGERIA</h3>
-
-<img align="right" alt ="coding" width = "400" src = "https://user-images.githubusercontent.com/118819574/205965612-9c74844a-32c0-452a-a4fc-c55a7d808946.png">
+<img align="right" alt ="coding" width = "400" src = "[https://user-images.githubusercontent.com/118819574/205965612-9c74844a-32c0-452a-a4fc-c55a7d808946.png](https://images.app.goo.gl/x4mT9PExLdcCBXNJ6)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giddy269&label=Profile%20views&color=0e75b6&style=flat" alt="giddy269" /> </p>
 
