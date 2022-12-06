@@ -2,7 +2,7 @@
 <h1 align="center">Hi Techies 👋, I'm GIDEON OBORO</h1>
 <h3 align="center">A PASSIONATE DATA SCIENTIST FROM NIGERIA</h3>
 
-<img align="right" alt ="coding" width = "400" src = "![image](https://user-images.githubusercontent.com/118819574/205963966-17cd648f-ec15-4769-a16f-f07eb577a04f.png)>
+<img align="right" alt ="coding" width = "400" src = "![image](https://user-images.githubusercontent.com/118819574/205964315-3caef3b4-7065-4960-96e2-b1c698ed3044.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giddy269&label=Profile%20views&color=0e75b6&style=flat" alt="giddy269" /> </p>
 
