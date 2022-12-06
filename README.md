@@ -1,4 +1,4 @@
-![logo](https://github.com/GIDDY269/GIDDY269/blob/main/GIDEON%20OBORO.png)
+![logo](https://github.com/GIDDY269/GIDDY269/blob/main/GIDEON%20OBORO%20(1).png))
 <h1 align="center">Hi Techies 👋, I'm GIDEON OBORO</h1>
 <h3 align="center">A PASSIONATE DATA SCIENTIST FROM NIGERIA</h3>
 
